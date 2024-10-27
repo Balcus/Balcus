@@ -31,12 +31,11 @@ I'm a computer science student from Timișoara with a passion for exploring tech
   
 </details>
 
-<details>
-  <summary>:zap: Contact me</summary>
-    <br>
-    <a href="https://www.linkedin.com/in/bogdan-balcus-755438331/">LinkedIn</a>&nbsp;&nbsp;
-    <a href="mailto:your-email@example.com">Email me!</a>
-  </details>
+### Get in contact
+
+<a href="https://www.linkedin.com/in/bogdan-balcus-755438331/"><img align="left" alt="LinkedIn" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+<a href="mailto:your-email@example.com"><img align="left" alt="Gmail" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>
+
 
 
 
