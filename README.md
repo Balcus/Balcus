@@ -33,7 +33,8 @@ I'm a computer science student from Timișoara with a passion for exploring tech
 
 <details>
   <summary>:zap: Contact me</summary>
-    <a href="https://www.linkedin.com/in/bogdan-balcus-755438331/" style="text-decoration: none">LinkedIn</a>&nbsp;&nbsp;
+    <br>
+    <a href="https://www.linkedin.com/in/bogdan-balcus-755438331/">LinkedIn</a>&nbsp;&nbsp;
     <a href="mailto:your-email@example.com">Email me!</a>
   </details>
 
