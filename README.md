@@ -1,9 +1,6 @@
 # 👨‍💻 Balcus Bogdan 
 
-**Nerdlet (Student/Developer)**
-
-I'm a computer science student from Timișoara with a passion for exploring technology and building projects from the ground up. Driven by a constant curiosity, I'm always on the lookout for new knowledge and creative projects that have the potential to make a positive impact. Outside of university and coding, I’m an enthusiast of horror movies 👻, rock music 🎸, sports 🏋️‍♂️, and I love spending time with my pets 🐶.
-
+Lasciate ogne speranza, voi ch'intrate
 
 ### Language and Tools
 
@@ -16,9 +13,6 @@ I'm a computer science student from Timișoara with a passion for exploring tech
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg"/>
-
-
-
 
 <br><br>
 
