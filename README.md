@@ -16,13 +16,6 @@ Lasciate ogne speranza, voi ch'intrate
 
 <br><br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![Balcus stats](https://github-readme-stats.vercel.app/api?username=Balcus&show_icons=true&theme=gruvbox)
-  
-</details>
-
 ### Get in contact
 
 <a href="https://www.linkedin.com/in/bogdan-balcus-755438331/"><img align="left" alt="LinkedIn" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
